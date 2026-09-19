@@ -1,249 +1,114 @@
-<h1 align="center">Hi 👋, I'm Kathiravan M</h1>
+<div align="center">
 
-<h3 align="center">
-Final Year Computer Science Engineering Student | AI & Full Stack Developer | Open Source Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KATHIRAVAN%20M&fontSize=50&fontAlignY=38&animation=fadeIn&color=0:020617,50:0f172a,100:0891b2&fontColor=ffffff" width="100%"/>
 
-<p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and Cybersecurity.
-I enjoy building intelligent applications that solve real-world problems using modern technologies.
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2000&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Learner;Developer;Problem+Solver" />
 
-## 🚀 About Me
+<br><br>
 
-🎓 Final Year B.E. Computer Science Engineering Student
+<a href="https://kathiravan-sk.github.io/portfolio/">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=000000">
+</a>
 
-🏫 Mahendra Engineering College
-
-💡 Interested in
-
-- Artificial Intelligence
-- Machine Learning
-- Agentic AI
-- Full Stack Development
-- Cybersecurity
-- Cloud Computing
-
-💼 Completed Infosys Springboard Internship
-
-🌱 Currently Learning
-
-- Generative AI
-- LLM Applications
-- LangChain
-- CrewAI
-- React
-- Node.js
-
-🎯 Goal
-
-Become a Software Engineer in a leading MNC while contributing to impactful AI-based solutions.
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+I'm **M. Kathiravan**, a Computer Science & Engineering student focused on software development and building practical applications.
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+I enjoy learning new technologies, developing useful projects, and continuously improving my technical and problem-solving skills.
 
----
-
-### Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Bootstrap
-
-Tailwind CSS
+> **Explore → Learn → Build → Grow**
 
 ---
 
-### Backend
-
-Node.js
-
-Express.js
-
-Firebase
-
-MongoDB
-
-MySQL
-
----
-
-### AI / ML
-
-Python
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-OpenAI API
-
-Google Gemini API
-
-Whisper
-
-LLMs
-
-Prompt Engineering
-
----
-
-### Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Postman
-
-Figma
-
-Docker
-
----
-
-# 🚀 Featured Projects
-
-## 🎙 AI Smart Meeting Companion
-
-AI-powered Chrome Extension that
-
-- Records meetings
-- Generates summaries
-- Creates quizzes
-- Detects action items
-- Supports multiple languages
-
-Tech
-
-React • Firebase • Whisper • GPT • Gemini
-
----
-
-## 🛡 SentinelAI
-
-Adaptive Honeypot for AI-driven Cyber Attacks
-
-Features
-
-- SQL Injection Detection
-- Prompt Injection Detection
-- Behavioral Analysis
-- Automated Threat Intelligence
-- Dashboard
-- Risk Prediction
-
----
-
-## 📦 Supply Chain Disruption War Room
-
-Agentic AI System that
-
-- Detects disruptions
-- Predicts risks
-- Recommends mitigation
-- Automates workflows
-- Human-in-the-loop approvals
-
----
-
-## 🤖 Fire Fighting Robot
-
-Arduino-based autonomous robot capable of
-
-- Detecting fire
-- Avoiding obstacles
-- Extinguishing flames
-- Bluetooth Control
-
----
-
-# 📜 Certifications
-
-✅ Infosys Springboard Internship
-
-✅ UI/UX Workshop
-
-✅ Cloud Computing
-
-✅ AI & Machine Learning Courses
-
----
-
-# 📊 GitHub Stats
+## 🛠️ Toolkit
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kathiravan-sk&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kathiravan-sk&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravan-sk&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mongodb,mysql,git,github,vscode" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Projects
 
-<p align="center">
+### 🤖 Smart AI Meeting Companion
 
-<img src="https://github-profile-trophy.vercel.app/?username=kathiravan-sk&theme=algolia&row=1&column=7"/>
+AI-powered meeting companion designed to make online meetings more intelligent and productive.
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kathiravan-sk&theme=react-dark"/>
-
-</p>
+`AI/ML` `React` `Python` `JavaScript`
 
 ---
 
-# 🌐 Connect With Me
+### 🔥 Fire Fighting Robot
 
-GitHub
+IoT-based robotic system designed for automatic fire detection and suppression.
 
-https://github.com/kathiravan-sk
-
-LinkedIn
-
-https://www.linkedin.com/in/m-kathiravan-b67a30297
-
-Email
-
-kathiravan12082004@gmail.com
-
-Location
-
-Tamil Nadu, India
+`Arduino` `IoT` `Sensors` `Robotics`
 
 ---
 
-# 💡 Quote
+### ⚡ Smart Workflow Assistant
 
-> "Learning never exhausts the mind. Every project is another step toward innovation."
+Intelligent workflow assistant designed to simplify and automate digital tasks.
+
+`AI/ML` `Automation`
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering**  
+Mahendra Engineering College  
+2023 – 2027
+
+---
+
+## 📜 Certifications
+
+- Introduction to Artificial Intelligence
+- Salesforce Developer — Agentblazer Champion Program
+- MongoDB Basics for Students
+- Deloitte Technology Job Simulation
+- NPTEL — Cloud Computing
+- NPTEL — IoT
+- NPTEL — Programming in Java
+
+---
+
+## 💼 Internships
+
+**ServiceNow**  
+Virtual Internship Program
+
+**Salesforce**  
+Salesforce Developer with Agentblazer Champion Program
+
+**Infosys**  
+Internship Program
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### Want to know more about my work?
+
+[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://kathiravan-sk.github.io/portfolio/)
+
+<br>
+
+**Developer • Learner • Problem Solver**
+
+### `A better version of me every day.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f172a,100:0891b2" width="100%"/>
+
+</div>
